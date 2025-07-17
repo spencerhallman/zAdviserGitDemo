@@ -1,0 +1,37 @@
+============================================================
+              Business Rules Processing Report
+============================================================
+Run Date/Time: 2025-07-17 20:27:43
+Application Version: 1.0.0
+End of Month: Yes
+
+------------------------------------------------------------
+                     Input Data Summary
+------------------------------------------------------------
+Total Records Processed: 6
+
+------------------------------------------------------------
+                   Processing Results
+------------------------------------------------------------
+Employee: John Doe        | Region: 1 | Type: H | Compensation: $1187.50 | Comment:
+Employee: Jane Smith      | Region: 2 | Type: S | Compensation: $33000.00 | Comment:
+Employee: Mary Williams   | Region: 3 | Type: S | Compensation: $32000.00 | Comment:
+Employee: David Brown     | Region: 4 | Type: H | Compensation: $1200.00 | Comment:
+
+------------------------------------------------------------
+                  Validation Messages
+------------------------------------------------------------
+WARNING: INVALID EMPLOYEE TYPE: X for Invalid Emp
+WARNING: INVALID REGION: 5 for Invalid Region
+
+------------------------------------------------------------
+                  Regional Sales Report
+------------------------------------------------------------
+Region: North | Manager: Peter Jones     | Total Sales: $0.00 | Manager Commission: $0.00 | Manager Total Comp: $80000.00
+Region: South | Manager: Sue Storm       | Total Sales: $50000.00 | Manager Commission: $1000.00 | Manager Total Comp: $86000.00
+Region: East  | Manager: Reed Richards   | Total Sales: $0.00 | Manager Commission: $0.00 | Manager Total Comp: $90000.00
+Region: West  | Manager: Ben Grimm       | Total Sales: $0.00 | Manager Commission: $0.00 | Manager Total Comp: $95000.00
+
+============================================================
+              Processing Complete
+============================================================
