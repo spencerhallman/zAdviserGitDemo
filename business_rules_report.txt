@@ -1,7 +1,7 @@
 ============================================================
               Business Rules Processing Report
 ============================================================
-Run Date/Time: 2025-07-17 20:27:43
+Run Date/Time: 2025-07-18 13:41:21
 Application Version: 1.0.0
 End of Month: Yes
 
@@ -14,9 +14,9 @@ Total Records Processed: 6
                    Processing Results
 ------------------------------------------------------------
 Employee: John Doe        | Region: 1 | Type: H | Compensation: $1187.50 | Comment:
-Employee: Jane Smith      | Region: 2 | Type: S | Compensation: $33000.00 | Comment:
-Employee: Mary Williams   | Region: 3 | Type: S | Compensation: $32000.00 | Comment:
 Employee: David Brown     | Region: 4 | Type: H | Compensation: $1200.00 | Comment:
+Employee: Jane Smith      | Region: 2 | Type: S | Compensation: $33000.00 | Comment:
+Employee: Mary Williams   | Region: 3 | Type: S | Compensation: $32000.00 | Comment: UH-OH
 
 ------------------------------------------------------------
                   Validation Messages

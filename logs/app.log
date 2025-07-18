@@ -1,0 +1,5 @@
+13:41:21.757 [com.adviser.businessrules.BusinessRulesProcessor.main()] INFO  c.a.b.BusinessRulesProcessor - Business Rules Processor Started.
+13:41:21.770 [com.adviser.businessrules.BusinessRulesProcessor.main()] INFO  c.a.b.report.ReportGenerator - --- Report Start ---
+13:41:21.771 [com.adviser.businessrules.BusinessRulesProcessor.main()] INFO  c.a.b.report.ReportGenerator - --- Report End ---
+13:41:21.771 [com.adviser.businessrules.BusinessRulesProcessor.main()] INFO  c.a.b.report.ReportGenerator - Report successfully written to business_rules_report.txt
+13:41:21.772 [com.adviser.businessrules.BusinessRulesProcessor.main()] INFO  c.a.b.BusinessRulesProcessor - Business Rules Processor Finished.
